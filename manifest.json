@@ -1,0 +1,9 @@
+{
+  "schema_version": "1.0",
+  "name": "GPT-N7\u0394+",
+  "version": "0.1.0",
+  "description": "Core of GPT-N7\u0394+ FDL Engine and semantic agent synergy.",
+  "author": "NgoiSigma",
+  "license": "MIT",
+  "funding": "See README for support options."
+}
