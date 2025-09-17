@@ -1,3 +1,4 @@
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](LICENSE)
 # GPT-N7Δ+ Core
 
 Welcome to the core repository of **GPT‑N7Δ+**, the harmonic semantic agent.
