@@ -48,3 +48,12 @@ HuggingFace Space
 База знаний в Notion
 
 Проект следует принципам смысловой прозрачности, логической ответственности и архитектурной этики.
+
+## License & Ethics
+
+This project follows NOVEYA’s unified licensing model:
+
+- All source code is licensed under the **GNU AGPL-3.0**. See the [LICENSE](LICENSE) file for the full text.
+- All non‑code assets (documents, symbols, glyphs) are licensed under **CC‑BY‑NC‑SA 4.0**. See the [LICENSE‑ETHICS.md](LICENSE-ETHICS.md) file for details and our ethical manifesto based on Formal Dialectical Logic (FDL).
+
+By contributing to or using this project, you agree to respect these licenses and the ethical guidelines outlined in `LICENSE-ETHICS.md`.
